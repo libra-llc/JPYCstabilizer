@@ -11,6 +11,8 @@ see article on hide.ac [https://hide.ac/articles/ZZoaKG4yb](https://hide.ac/arti
 - スタビの APR 表示
 - 流動性プールの APR 表示
 
+## 一連の取引の流れ
+
 ## update log
 
 ### [v.20210922.0](https://github.com/Nuko973663/JPYCstabilizer/releases/tag/v.20210922.0)
